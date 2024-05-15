@@ -21,6 +21,7 @@ Part 2: VacationPy Plan vacations using weather data. Utilize Jupyter notebooks,
 
 
 ## Requirements
+**Part 1:** Access the WeatherPy file in the WeatherPy directory, named "WeatherPy (main).ipynb"
 **The requirements for "Part 1: WeatherPy" are the following:**
 - Create Plots to Showcase the Relationship Between Weather Variables and Latitude
 - Use the OpenWeatherMap API to retrieve weather data from the cities list 
@@ -39,6 +40,7 @@ Part 2: VacationPy Plan vacations using weather data. Utilize Jupyter notebooks,
 - Linear regression scatter plot for Northern Hemisphere: Wind Speed (m/s) vs. Latitude 
 - Linear regression scatter plot for Southern Hemisphere: Wind Speed (m/s) vs. Latitude 
 
+**Part 2:** Access the WeatherPy file in the WeatherPy directory, named "VacationPy (main).ipynb"
 **The requirements for "Part 2: VacationPy" are the following**
 - Create a map that displays a point for every city in the city_data_df DataFrame 
 - Narrow down the city_data_df DataFrame to find your ideal weather condition 
